@@ -1,0 +1,25 @@
+name: Generate Snake
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: ashish08m
+          outputs: |
+            github-snake.svg?palette=github-dark
+            github-snake.gif?color_snake=%2339d353&color_dots=%23161b22,%230e4429,%23006d32,%2326a641,%2339d353
+
+      - name: Push generated files
+        uses: EndBug/add-and-commit@v9
+        with:
+          add: "github-snake.svg github-snake.gif"
+          message: "Generate contribution snake"
