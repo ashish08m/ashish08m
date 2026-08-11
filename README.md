@@ -1,3 +1,38 @@
+
+<div align="center">
+
+  <h1>
+    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
+    Hi there! I'm Ashish Mishra
+  </h1>
+
+  <p align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F000&center=true&vCenter=true&random=false&width=435&lines=Computer+Science+Student;DSA+%26+Competitive+Programming;Full-Stack+Development;Open+Source+Enthusiast;Building+Projects" alt="Typing SVG" />
+    </a>
+  </p>
+
+</div>
+
+---
+
+<p align="center">
+  <img src="https://github.githubassets.com/images/mona-loading-default.gif" alt="GitHub Octocat" width="150px">
+</p>
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
 # 💫 About Me:
 • 🎓 B.Tech student at IIIT Lucknow<br>• 💻 Currently learning DSA & CP<br>• 🌐 Exploring Full-Stack Development<br>• 🔓 Interested in Open Source<br>• 🚀 Building projects
 
