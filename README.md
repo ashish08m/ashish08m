@@ -103,16 +103,50 @@
 </tr>
 </table>
 
----
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ashish08m&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ashish08m&theme=nightowl&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashish08m&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+<hr>
+
+<h2>⚡ Currently Learning / Exploring</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/DSA-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white">
+  <img src="https://img.shields.io/badge/Competitive_Programming-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+</p>
+
+<hr>
+
+<h2>📈 GitHub Stats</h2>
+
+<p align="center">
+  <a href="https://github.com/ashish08m">
+    <img
+      height="180"
+      src="https://github-readme-stats.shion.dev/api?username=ashish08m&show_icons=true&hide_border=true&bg_color=00000000&title_color=39d353&text_color=c9d1d9&icon_color=39d353&include_all_commits=true&count_private=false"
+    />
+  </a>
+  <a href="https://github.com/ashish08m">
+    <img
+      height="180"
+      src="https://streak-stats.demolab.com/?user=ashish08m&hide_border=true&background=00000000&ring=39d353&fire=39d353&currStreakLabel=39d353&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e&stroke=30363d"
+    />
+  </a>
+</p>
 
 
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+<hr>
+
+<p align="center">
+  <i>
+    <font color="#00ff00">"</font>
+    I have no idea what I'm doing, but somehow it works.
+    <font color="#00ff00">"</font>
+  </i>
+</p>
+
+<hr>
 
 
 
