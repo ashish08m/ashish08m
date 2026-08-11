@@ -33,15 +33,112 @@
 
 
 
-# 💫 About Me:
-• 🎓 B.Tech student at IIIT Lucknow<br>• 💻 Currently learning DSA & CP<br>• 🌐 Exploring Full-Stack Development<br>• 🔓 Interested in Open Source<br>• 🚀 Building projects
+## 💫 About Me:
+
+- 🎓 B.Tech student at IIIT Lucknow
+- 🧩 I enjoy solving problems and building things from scratch
+- 🚀 Currently working on personal projects and exploring new ideas
+- 🤝 Interested in collaborating on meaningful projects
+- 💡 Always curious about how things work under the hood
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashishhhh.17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashishmishra-cs08/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aashishmishra8776@gmail.com) 
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
+
+## 🚀 My Tech Stack
+
+<p align="center">
+  <i>Here are some of the technologies and tools I love to work with:</i>
+</p>
+
+<table align="center">
+  <tr>
+    <th>Languages</th>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Database</th>
+    <th>Tools & Others</th>
+  </tr>
+
+  <tr>
+    <td align="center">
+
+      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white">
+
+      <br><br>
+
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white">
+
+      <br><br>
+
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+
+      <br><br>
+
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+
+    </td>
+
+    <td align="center">
+
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+
+      <br><br>
+
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+
+      <br><br>
+
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+
+      <br><br>
+
+      <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white">
+
+    </td>
+
+    <td align="center">
+
+      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
+
+      <br><br>
+
+      <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
+
+      <br><br>
+
+      <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+
+    </td>
+
+    <td align="center">
+
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+
+    </td>
+
+    <td align="center">
+
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+
+      <br><br>
+
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+
+      <br><br>
+
+      <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+
+      <br><br>
+
+      <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white">
+
+    </td>
+  </tr>
+</table>
+
+---
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=ashish08m&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ashish08m&theme=nightowl&hide_border=true)<br/>
