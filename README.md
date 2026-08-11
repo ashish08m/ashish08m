@@ -42,9 +42,6 @@
 - 💡 Always curious about how things work under the hood
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashishhhh.17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashishmishra-cs08/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aashishmishra8776@gmail.com) 
-
 
 
 
@@ -116,6 +113,15 @@
 </p>
 
 <hr>
+<hr>
+
+<h2>🐍 My Contributions</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ashish08m/ashish08m/main/github-snake.svg" alt="GitHub Contribution Snake">
+</p>
+
+<hr>
 
 <h2>📈 GitHub Stats</h2>
 
@@ -134,7 +140,8 @@
   </a>
 </p>
 
-
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashishhhh.17) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ashishmishra-cs08/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aashishmishra8776@gmail.com) 
 
 <hr>
 
