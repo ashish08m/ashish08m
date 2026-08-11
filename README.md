@@ -109,14 +109,12 @@
 ![](https://streak-stats.demolab.com/?user=ashish08m&theme=nightowl&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ashish08m&theme=nightowl&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ashish08m&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ashish08m&limit=5&theme=onedark&combine_all_yearly_contributions=true)
+
 
 ---
 [![](https://komarev.com/ghpvc/?username=ashish08m&icon=0&color=6)](https://visitcount.itsvg.in)
